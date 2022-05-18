@@ -1,0 +1,32 @@
+.citylist {
+  height: 100%;
+  padding-top: 45px;
+}
+
+.citylist .navbar {
+  margin-top: -45px;
+  color: #333;
+  background-color: #f5f6f5;
+}
+
+.citylist .navbar .am-navbar-title {
+  color: #333;
+}
+
+.city .title {
+  font-size: 14px;
+  padding: 10px 15px;
+  color: #999;
+}
+
+.city .name {
+  width: 100%;
+  height: 50px;
+  padding: 0 15px;
+  line-height: 50px;
+  border-bottom: 1px solid #eeeeee;
+  font-size: 16px;
+  color: #333;
+  background: #fff;
+  cursor: pointer;
+}
